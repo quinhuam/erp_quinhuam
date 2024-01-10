@@ -1,0 +1,34 @@
+Tablas erp
+
+personas
+modulos - tabla recursiva
+menus
+proveedores
+contactoproveedor
+tiposcomporbantes
+tiposretenciones
+comprobantes
+diario
+detallediario
+moneda
+tipopersona
+tipodocumento
+documento
+articulo
+fabricante
+almacenes
+movimientoxalmacenes
+caja
+ubigeo
+contratos
+capacitaciones
+empleados
+tiposgastos
+gastos
+anticipos
+
+
+
+
+
+
